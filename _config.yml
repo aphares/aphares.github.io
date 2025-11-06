@@ -6,14 +6,10 @@ url: "http://localhost:3000"
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Andy Phares
+username: Andrew Phares
 user_description: A peculiar fellow who sometimes codes, and sometimes does other things.
 user_title: Developer & Designer
-email: andy.a.phares@gmail.com
-twitter_username: lorem_ipsum
-github_username:  aphares
-gplus_username:  lorem_ipsum
-
+email: aphares3849@gmail.com
 
 # Google-analytics
 google-analytics:
